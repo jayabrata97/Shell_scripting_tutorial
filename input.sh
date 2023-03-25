@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#User Input
+#User Input, using prompt
 read -p "Enter your name: " NAME
 echo "Your name is $NAME"
 
